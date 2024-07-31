@@ -1,0 +1,56 @@
+#jj {
+    background-color: indigo;
+    color: aqua;
+    padding: 10px;
+    border-radius: 15px;
+}
+#jj:hover {
+    background-color: black;
+}
+
+#jk {
+    background-color: blue;
+    color: cadetblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+#jk:hover {
+    background-color: red;
+}
+#jkk {
+    background-color: rgb(157, 167, 20);
+    color: rgb(199, 62, 20);
+    padding: 10px;
+    border-radius: 15px;
+}
+#jkk:hover {
+    background-color: blue;
+}
+#kkj {
+    background-color: rgb(189, 18, 18);
+    color: rgb(17, 144, 218);
+    padding: 10px;
+    border-radius: 15px;
+}
+#kkj:hover {
+    background-color: violet;
+}
+#kj {
+    background-color: rgb(26, 236, 131);
+    color: rgb(123, 207, 26);
+    padding: 10px;
+    border-radius: 15px;
+}
+#kj:hover {
+    background-color: green;
+}
+#kkkj {
+    background-color: rgb(7, 26, 66);
+    color: rgb(192, 41, 15);
+    padding: 10px;
+    border-radius: 15px;
+}
+#kkkj:hover {
+    background-color: rgb(54, 155, 150);
+}
+
